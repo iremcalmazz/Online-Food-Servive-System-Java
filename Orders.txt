@@ -1,0 +1,9 @@
+2;1;pizza;sucuk,zeytin,yesil biber;24;false
+2;1;makarna;makarna,sos paketi ;25;false
+2;1;lahmacun;kıyma,lavas,acı biber;20;true
+3;1;Çemenli;hamur,çemen ;3;false
+4;2;Kebap;kıyma,acı biber,lavas ;18;false
+5;2;Su Böregi;yufka,peynir ;10;false
+6;3;Tavuk Pilav;pirinç,tavuk;11;false
+1;4;makarna;makarna,sos paketi;25;false
+4;5;Kebap;kıyma,acı biber,lavas ;18;false
